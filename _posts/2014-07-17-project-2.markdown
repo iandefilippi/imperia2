@@ -1,11 +1,11 @@
 ---
-title: Ostras rey
+title: Ostras Rey
 subtitle: Pleurotus eryngii
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: king-oyster.png
-thumbnail: king-oyster.png
+img: king-oyster.jpg
+thumbnail: king-oyster.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
