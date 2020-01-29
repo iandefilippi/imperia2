@@ -4,8 +4,8 @@ subtitle: Hericium erinaceus
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: lion mane.jpg
-thumbnail: lion mane-thumbnail.png
+img: lion_mane.jpg
+thumbnail: lion_mane-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
