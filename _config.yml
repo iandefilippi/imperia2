@@ -9,17 +9,16 @@ description: "Hongos frescos como nunca los has probado."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Oscar Cacho
   pic: 1
-  position: Lead Designer
+  position: Gerente General
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
