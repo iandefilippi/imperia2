@@ -1,5 +1,5 @@
 ---
-title: Ostras
+title: Ostras (Próximamente)
 subtitle: Pleurotus ostreatus
 layout: default
 modal-id: 1
